@@ -1,0 +1,19 @@
+.areas{
+    width: 40%;
+    margin-left: 40%;
+    margin-top: 5%;
+    /* background-color: aqua; */
+    padding: 5px;
+    
+}
+input{
+    border: none;
+    /* color: aqua; */
+    /* background-color: yellow; */
+    width: 25%;
+}
+button{
+    color: rgb(17, 69, 255);
+    border: none;
+    background-color: aliceblue
+}
